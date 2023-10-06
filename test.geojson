@@ -1,0 +1,746 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+    {
+    "type": "Feature",
+    "id": "v_centros_salud.fid--10dfa991_18b04f9b3c8_-1d1f",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    5579418.73252448,
+    5870345.83928265
+    ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+    "id": 8,
+    "Nombre": "Rodriguez Selvetti",
+    "Dirección": "Caceros",
+    "Altura": 1775,
+    "Categoría": "Centro de Salud"
+    },
+    "bbox": [
+    5579418.73252448,
+    5870345.83928265,
+    5579418.73252448,
+    5870345.83928265
+    ]
+    },
+    {
+    "type": "Feature",
+    "id": "v_centros_salud.fid--10dfa991_18b04f9b3c8_-1d1e",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    5576210.89222065,
+    5870235.11523569
+    ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+    "id": 1,
+    "Nombre": "PSISP",
+    "Dirección": "Alem Leandro N",
+    "Altura": 1510,
+    "Categoría": "Gestion de Programas  PSISP"
+    },
+    "bbox": [
+    5576210.89222065,
+    5870235.11523569,
+    5576210.89222065,
+    5870235.11523569
+    ]
+    },
+    {
+    "type": "Feature",
+    "id": "v_centros_salud.fid--10dfa991_18b04f9b3c8_-1d1d",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    5576390.67665416,
+    5870127.29316221
+    ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+    "id": 4,
+    "Nombre": "Ramon Santamarina",
+    "Dirección": "Paz Gral Jose Maria",
+    "Altura": 1406,
+    "Categoría": "Hospital"
+    },
+    "bbox": [
+    5576390.67665416,
+    5870127.29316221,
+    5576390.67665416,
+    5870127.29316221
+    ]
+    },
+    {
+    "type": "Feature",
+    "id": "v_centros_salud.fid--10dfa991_18b04f9b3c8_-1d1c",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    5576334.49497729,
+    5869977.4571343
+    ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+    "id": 3,
+    "Nombre": "Dr  Debilio Blanco Villegas",
+    "Dirección": "Alem Leandro N",
+    "Altura": 1300,
+    "Categoría": "Hospital de Ninos"
+    },
+    "bbox": [
+    5576334.49497729,
+    5869977.4571343,
+    5576334.49497729,
+    5869977.4571343
+    ]
+    },
+    {
+    "type": "Feature",
+    "id": "v_centros_salud.fid--10dfa991_18b04f9b3c8_-1d1b",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    5576290.77803809,
+    5870070.81914842
+    ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+    "id": 11,
+    "Nombre": "Servicio de Emergencias",
+    "Dirección": "Alem Leandro N",
+    "Altura": 1400,
+    "Categoría": "Servicios de Emergencias Medicas"
+    },
+    "bbox": [
+    5576290.77803809,
+    5870070.81914842,
+    5576290.77803809,
+    5870070.81914842
+    ]
+    },
+    {
+    "type": "Feature",
+    "id": "v_centros_salud.fid--10dfa991_18b04f9b3c8_-1d1a",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    5577946.5039944,
+    5871450.26394667
+    ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+    "id": 16,
+    "Nombre": "Villa Agirre",
+    "Dirección": "Darragueira Carlos",
+    "Altura": 1722,
+    "Categoría": "Centro de Salud"
+    },
+    "bbox": [
+    5577946.5039944,
+    5871450.26394667,
+    5577946.5039944,
+    5871450.26394667
+    ]
+    },
+    {
+    "type": "Feature",
+    "id": "v_centros_salud.fid--10dfa991_18b04f9b3c8_-1d19",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    5576184.79143841,
+    5869909.47488324
+    ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+    "id": 12,
+    "Nombre": "Direccion de Salud",
+    "Dirección": "9 de julio",
+    "Altura": 1320,
+    "Categoría": "Direccion de Salud Comunitaria"
+    },
+    "bbox": [
+    5576184.79143841,
+    5869909.47488324,
+    5576184.79143841,
+    5869909.47488324
+    ]
+    },
+    {
+    "type": "Feature",
+    "id": "v_centros_salud.fid--10dfa991_18b04f9b3c8_-1d18",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    5574795.64671397,
+    5869563.31754481
+    ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+    "id": 5,
+    "Nombre": "Barrio Belgrano",
+    "Dirección": "Cheverrier",
+    "Altura": 338,
+    "Categoría": "Centro de Salud"
+    },
+    "bbox": [
+    5574795.64671397,
+    5869563.31754481,
+    5574795.64671397,
+    5869563.31754481
+    ]
+    },
+    {
+    "type": "Feature",
+    "id": "v_centros_salud.fid--10dfa991_18b04f9b3c8_-1d17",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    5575751.05192115,
+    5868987.5112685
+    ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+    "id": 2,
+    "Nombre": "Vias respiratorias",
+    "Dirección": "Espana",
+    "Altura": 101,
+    "Categoría": "Dispensario"
+    },
+    "bbox": [
+    5575751.05192115,
+    5868987.5112685,
+    5575751.05192115,
+    5868987.5112685
+    ]
+    },
+    {
+    "type": "Feature",
+    "id": "v_centros_salud.fid--10dfa991_18b04f9b3c8_-1d16",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    5579283.65410455,
+    5871142.06004677
+    ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+    "id": 18,
+    "Nombre": "Barrio Palermo",
+    "Dirección": "Argerich",
+    "Altura": 968,
+    "Categoría": "Centro de Salud"
+    },
+    "bbox": [
+    5579283.65410455,
+    5871142.06004677,
+    5579283.65410455,
+    5871142.06004677
+    ]
+    },
+    {
+    "type": "Feature",
+    "id": "v_centros_salud.fid--10dfa991_18b04f9b3c8_-1d15",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    5576173.18777097,
+    5871982.94979998
+    ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+    "id": 14,
+    "Nombre": "Villa Italia",
+    "Dirección": "Patagonia",
+    "Altura": 977,
+    "Categoría": "Centro de Salud"
+    },
+    "bbox": [
+    5576173.18777097,
+    5871982.94979998,
+    5576173.18777097,
+    5871982.94979998
+    ]
+    },
+    {
+    "type": "Feature",
+    "id": "v_centros_salud.fid--10dfa991_18b04f9b3c8_-1d14",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    5573327.35307871,
+    5870813.38350954
+    ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+    "id": 6,
+    "Nombre": "La Movediza",
+    "Dirección": "Misiones",
+    "Altura": 1801,
+    "Categoría": "Centro de Salud"
+    },
+    "bbox": [
+    5573327.35307871,
+    5870813.38350954,
+    5573327.35307871,
+    5870813.38350954
+    ]
+    },
+    {
+    "type": "Feature",
+    "id": "v_centros_salud.fid--10dfa991_18b04f9b3c8_-1d13",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    5574126.99170863,
+    5871752.08015722
+    ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+    "id": 13,
+    "Nombre": "Barrio Maggiori",
+    "Dirección": "Las Animas",
+    "Altura": 1848,
+    "Categoría": "Centro de Salud"
+    },
+    "bbox": [
+    5574126.99170863,
+    5871752.08015722,
+    5574126.99170863,
+    5871752.08015722
+    ]
+    },
+    {
+    "type": "Feature",
+    "id": "v_centros_salud.fid--10dfa991_18b04f9b3c8_-1d12",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    5574730.65027684,
+    5872642.91858252
+    ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+    "id": 10,
+    "Nombre": "Arco Iris",
+    "Dirección": "Saenz Pena Roque",
+    "Altura": 2020,
+    "Categoría": "Centro de Salud"
+    },
+    "bbox": [
+    5574730.65027684,
+    5872642.91858252,
+    5574730.65027684,
+    5872642.91858252
+    ]
+    },
+    {
+    "type": "Feature",
+    "id": "v_centros_salud.fid--10dfa991_18b04f9b3c8_-1d11",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    5575243.69915103,
+    5870842.36007618
+    ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+    "id": 15,
+    "Nombre": "Lisandro de la Torre",
+    "Dirección": "Jujuy",
+    "Altura": 46,
+    "Categoría": "Centro de Salud"
+    },
+    "bbox": [
+    5575243.69915103,
+    5870842.36007618,
+    5575243.69915103,
+    5870842.36007618
+    ]
+    },
+    {
+    "type": "Feature",
+    "id": "v_centros_salud.fid--10dfa991_18b04f9b3c8_-1d10",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    5574487.14706113,
+    5870694.35101753
+    ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+    "id": 19,
+    "Nombre": "Barrio Metalurgico",
+    "Dirección": "Cardiel Padre Jose",
+    "Altura": 498,
+    "Categoría": "Centro de Salud"
+    },
+    "bbox": [
+    5574487.14706113,
+    5870694.35101753,
+    5574487.14706113,
+    5870694.35101753
+    ]
+    },
+    {
+    "type": "Feature",
+    "id": "v_centros_salud.fid--10dfa991_18b04f9b3c8_-1d0f",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    5575752.00946618,
+    5867246.96426829
+    ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+    "id": 7,
+    "Nombre": "Las Tunitas",
+    "Dirección": "De los Granaderos",
+    "Altura": 180,
+    "Categoría": "Centro de Salud"
+    },
+    "bbox": [
+    5575752.00946618,
+    5867246.96426829,
+    5575752.00946618,
+    5867246.96426829
+    ]
+    },
+    {
+    "type": "Feature",
+    "id": "v_centros_salud.fid--10dfa991_18b04f9b3c8_-1d0e",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    5578540.48356582,
+    5868047.91766267
+    ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+    "id": 9,
+    "Nombre": "Maria Auxiliadora",
+    "Dirección": "Loberia",
+    "Altura": 1612,
+    "Categoría": "Centro de Salud"
+    },
+    "bbox": [
+    5578540.48356582,
+    5868047.91766267,
+    5578540.48356582,
+    5868047.91766267
+    ]
+    },
+    {
+    "type": "Feature",
+    "id": "v_centros_salud.fid--10dfa991_18b04f9b3c8_-1d0d",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    5578196.90652059,
+    5872460.15182536
+    ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+    "id": 17,
+    "Nombre": "San Cayetano",
+    "Dirección": "Independencia",
+    "Altura": 2077,
+    "Categoría": "Centro de Salud"
+    },
+    "bbox": [
+    5578196.90652059,
+    5872460.15182536,
+    5578196.90652059,
+    5872460.15182536
+    ]
+    },
+    {
+    "type": "Feature",
+    "id": "v_centros_salud.fid--10dfa991_18b04f9b3c8_-1d0c",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    5543639.57568583,
+    5861027.36138213
+    ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+    "id": null,
+    "Nombre": "Enrique Larreta",
+    "Dirección": "Avellaneda",
+    "Altura": 350,
+    "Categoría": "Hospital"
+    },
+    "bbox": [
+    5543639.57568583,
+    5861027.36138213,
+    5543639.57568583,
+    5861027.36138213
+    ]
+    },
+    {
+    "type": "Feature",
+    "id": "v_centros_salud.fid--10dfa991_18b04f9b3c8_-1d0b",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    5556404.2040683,
+    5874238.54950442
+    ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+    "id": null,
+    "Nombre": "Gardey",
+    "Dirección": "13",
+    "Altura": 0,
+    "Categoría": "Sala Rural"
+    },
+    "bbox": [
+    5556404.2040683,
+    5874238.54950442,
+    5556404.2040683,
+    5874238.54950442
+    ]
+    },
+    {
+    "type": "Feature",
+    "id": "v_centros_salud.fid--10dfa991_18b04f9b3c8_-1d0a",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    5579468.88805871,
+    5891015.30553784
+    ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+    "id": null,
+    "Nombre": "de la Canal",
+    "Dirección": "del Trabajador Rural",
+    "Altura": 0,
+    "Categoría": "Sala Rural"
+    },
+    "bbox": [
+    5579468.88805871,
+    5891015.30553784,
+    5579468.88805871,
+    5891015.30553784
+    ]
+    },
+    {
+    "type": "Feature",
+    "id": "v_centros_salud.fid--10dfa991_18b04f9b3c8_-1d09",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    5596031.34625839,
+    5877058.60216251
+    ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+    "id": null,
+    "Nombre": "Iraola",
+    "Dirección": "Estacion Iraola",
+    "Altura": 0,
+    "Categoría": "Sala Rural"
+    },
+    "bbox": [
+    5596031.34625839,
+    5877058.60216251,
+    5596031.34625839,
+    5877058.60216251
+    ]
+    },
+    {
+    "type": "Feature",
+    "id": "v_centros_salud.fid--10dfa991_18b04f9b3c8_-1d08",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    5605311.66923439,
+    5858665.85527484
+    ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+    "id": null,
+    "Nombre": "Fulton",
+    "Dirección": "Estacion Fulton",
+    "Altura": 0,
+    "Categoría": "Sala Rural"
+    },
+    "bbox": [
+    5605311.66923439,
+    5858665.85527484,
+    5605311.66923439,
+    5858665.85527484
+    ]
+    },
+    {
+    "type": "Feature",
+    "id": "v_centros_salud.fid--10dfa991_18b04f9b3c8_-1d07",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    5562578.07137967,
+    5851120.12137171
+    ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+    "id": null,
+    "Nombre": "Azucena",
+    "Dirección": "Estacion Azucena",
+    "Altura": 0,
+    "Categoría": "Sala Rural"
+    },
+    "bbox": [
+    5562578.07137967,
+    5851120.12137171,
+    5562578.07137967,
+    5851120.12137171
+    ]
+    },
+    {
+    "type": "Feature",
+    "id": "v_centros_salud.fid--10dfa991_18b04f9b3c8_-1d06",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    5576056.20932641,
+    5870915.68507199
+    ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+    "id": null,
+    "Nombre": "Union y Progreso",
+    "Dirección": "Quintana",
+    "Altura": 450,
+    "Categoría": "Centro de Salud"
+    },
+    "bbox": [
+    5576056.20932641,
+    5870915.68507199,
+    5576056.20932641,
+    5870915.68507199
+    ]
+    },
+    {
+    "type": "Feature",
+    "id": "v_centros_salud.fid--10dfa991_18b04f9b3c8_-1d05",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    5576439.63703275,
+    5869995.70997485
+    ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+    "id": null,
+    "Nombre": "Direccion de Salud Mental",
+    "Dirección": "Pelegrini",
+    "Altura": 886,
+    "Categoría": "Centro de Salud"
+    },
+    "bbox": [
+    5576439.63703275,
+    5869995.70997485,
+    5576439.63703275,
+    5869995.70997485
+    ]
+    },
+    {
+    "type": "Feature",
+    "id": "v_centros_salud.fid--10dfa991_18b04f9b3c8_-1d04",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    5576658.24986729,
+    5870227.91921108
+    ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+    "id": null,
+    "Nombre": "Salud Comunitaria",
+    "Dirección": "Uriburu",
+    "Altura": 1063,
+    "Categoría": "Centro de Salud"
+    },
+    "bbox": [
+    5576658.24986729,
+    5870227.91921108,
+    5576658.24986729,
+    5870227.91921108
+    ]
+    },
+    {
+    "type": "Feature",
+    "id": "v_centros_salud.fid--10dfa991_18b04f9b3c8_-1d03",
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    5576329.21149098,
+    5869992.69502732
+    ]
+    },
+    "geometry_name": "geom",
+    "properties": {
+    "id": null,
+    "Nombre": "Centro de Vacunacion",
+    "Dirección": "Alem",
+    "Altura": 1300,
+    "Categoría": "Centro de Vacunacion"
+    },
+    "bbox": [
+    5576329.21149098,
+    5869992.69502732,
+    5576329.21149098,
+    5869992.69502732
+    ]
+    }
+    ],
+    "totalFeatures": 29,
+    "numberMatched": 29,
+    "numberReturned": 29,
+    "timeStamp": "2023-10-06T12:38:42.107Z",
+    "crs": {
+    "type": "name",
+    "properties": {
+    "name": "urn:ogc:def:crs:EPSG::5347"
+    }
+    },
+    "bbox": [
+    5543639.57568583,
+    5851120.12137171,
+    5605311.66923439,
+    5891015.30553784
+    ]
+    }
